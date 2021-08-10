@@ -1,0 +1,13 @@
+POST http://localhost:3001/api/notes 
+content-Type:application/json
+
+{
+    "content":"tengo hambre 2.1"
+}
+
+###
+
+POST http://localhost:3001/api/notes 
+content-Type:application/json
+
+
